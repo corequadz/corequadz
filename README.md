@@ -4,8 +4,7 @@
 
 - 🔭 I'm currently working on **[olymp_ide](https://github.com/corequadz/olymp_ide)**
 
-- 🌱 I'm currently learning **Flutter
-C++**
+- 🌱 I'm currently learning **Flutter, C++**
 
 - 📫 How to reach me **regspace7@gmail.com**
 
