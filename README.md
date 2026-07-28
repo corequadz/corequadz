@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corequadz&label=Profile views&color=0e75b6&style=flat" alt="corequadz" /> </p>
 
-- 🔭 I'm currently working on ** olymp_ide**
+- 🔭 I'm currently working on **[olymp_ide](https://github.com/corequadz/olymp_ide)**
 
 - 🌱 I'm currently learning **Flutter
 C++**
