@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corequadz&label=Profile views&color=0e75b6&style=flat" alt="corequadz" /> </p>
 
-- 🔭 I'm currently working on **[etuCode](https://github.com/airmagicty/etuCode_bot))**
+- 🔭 I'm currently working on **[etuCode](https://github.com/airmagicty/etuCode_bot)**
 
 - 🌱 I'm currently learning **Flutter, C++**
 
 - 📫 How to reach me **regspace7@gmail.com**
 
-- 📄 Know about my experiences **[https://h1.nu/1Amii](https://h1.nu/1Amii)**
+- 📄 Know about my experiences **[Portfolio](https://drive.google.com/file/d/1b1z_HG83xV5WbPMEkYcdwH1xg6tbPyj9/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
